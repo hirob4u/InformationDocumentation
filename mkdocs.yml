@@ -1,0 +1,10 @@
+site_name: HiroB4U Information And Documentation
+
+site_url: https://hirob4u.github.io/InformationDocumentation
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep-orange
+    accent: deep-orange
